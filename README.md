@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
+| [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/brukmikir/brleetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
+| [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/brukmikir/brleetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brukmikir/brleetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
