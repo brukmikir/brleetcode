@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
