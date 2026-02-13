@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/brukmikir/brleetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/brukmikir/brleetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -72,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/brukmikir/brleetcode/tree/master/0344-reverse-string) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
