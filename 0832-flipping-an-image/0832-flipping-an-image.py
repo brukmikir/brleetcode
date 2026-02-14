@@ -5,14 +5,8 @@ class Solution(object):
         
         for i in range(row):
             l,r = 0,col-1
-            while(l < r):
-                image[i][l],image[i][r] = image[i][r],image[i][l]
+            while(l <= r):
+                image[i][l],image[i][r] =1-image[i][r], 1-image[i][l]
                 l+=1
-                r-=1
-        for r in range(row):
-            for c in range(col):
-                if image[r][c] == 0:
-                    image[r][c]+=1
-                elif image[r][c] == 1:
-                    image[r][c]-=1
+                r-=1                
         return image
