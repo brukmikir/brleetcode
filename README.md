@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/brukmikir/brleetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/brukmikir/brleetcode/tree/master/0661-image-smoother) |
+| [0789-escape-the-ghosts](https://github.com/brukmikir/brleetcode/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/brukmikir/brleetcode/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/brukmikir/brleetcode/tree/master/0867-transpose-matrix) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
+| [0789-escape-the-ghosts](https://github.com/brukmikir/brleetcode/tree/master/0789-escape-the-ghosts) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
