@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/brukmikir/brleetcode/tree/master/0661-image-smoother) |
 | [0789-escape-the-ghosts](https://github.com/brukmikir/brleetcode/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/brukmikir/brleetcode/tree/master/0804-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/brukmikir/brleetcode/tree/master/0867-transpose-matrix) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/brukmikir/brleetcode/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brukmikir/brleetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/brukmikir/brleetcode/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -93,5 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/brukmikir/brleetcode/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/brukmikir/brleetcode/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
