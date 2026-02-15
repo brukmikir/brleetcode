@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/brukmikir/brleetcode/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/brukmikir/brleetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/brukmikir/brleetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/brukmikir/brleetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/brukmikir/brleetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/brukmikir/brleetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brukmikir/brleetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/brukmikir/brleetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Recursion
