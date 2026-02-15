@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
 | [0789-escape-the-ghosts](https://github.com/brukmikir/brleetcode/tree/master/0789-escape-the-ghosts) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2413-smallest-even-multiple](https://github.com/brukmikir/brleetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/brukmikir/brleetcode/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/brukmikir/brleetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
