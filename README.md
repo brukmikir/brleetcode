@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/brukmikir/brleetcode/tree/master/0014-longest-common-prefix) |
+| [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
