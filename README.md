@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/brukmikir/brleetcode/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/brukmikir/brleetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
