@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brukmikir/brleetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/brukmikir/brleetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
 | ------- |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Recursion
 |  |
 | ------- |
