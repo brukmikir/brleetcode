@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/brukmikir/brleetcode/tree/master/2679-sum-in-a-matrix) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/brukmikir/brleetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/brukmikir/brleetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brukmikir/brleetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/brukmikir/brleetcode/tree/master/2679-sum-in-a-matrix) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/brukmikir/brleetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2679-sum-in-a-matrix](https://github.com/brukmikir/brleetcode/tree/master/2679-sum-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/brukmikir/brleetcode/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/brukmikir/brleetcode/tree/master/0867-transpose-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/brukmikir/brleetcode/tree/master/2679-sum-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2679-sum-in-a-matrix](https://github.com/brukmikir/brleetcode/tree/master/2679-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
