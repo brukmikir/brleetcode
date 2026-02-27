@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/brukmikir/brleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/brukmikir/brleetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/brukmikir/brleetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/brukmikir/brleetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/brukmikir/brleetcode/tree/master/0229-majority-element-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/brukmikir/brleetcode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
