@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/brukmikir/brleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/brukmikir/brleetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/brukmikir/brleetcode/tree/master/0447-number-of-boomerangs) |
 | [0498-diagonal-traverse](https://github.com/brukmikir/brleetcode/tree/master/0498-diagonal-traverse) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/brukmikir/brleetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/brukmikir/brleetcode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
