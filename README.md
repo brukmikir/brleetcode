@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/brukmikir/brleetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/brukmikir/brleetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/brukmikir/brleetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/brukmikir/brleetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/brukmikir/brleetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/brukmikir/brleetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Matrix
 |  |
 | ------- |
