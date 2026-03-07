@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/brukmikir/brleetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/brukmikir/brleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/brukmikir/brleetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/brukmikir/brleetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/brukmikir/brleetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/brukmikir/brleetcode/tree/master/0134-gas-station) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/brukmikir/brleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/brukmikir/brleetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/brukmikir/brleetcode/tree/master/0217-contains-duplicate) |
