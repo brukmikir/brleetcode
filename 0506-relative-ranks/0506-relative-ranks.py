@@ -6,6 +6,7 @@ class Solution(object):
         for i in score:
             idx = s.index(i)
 
+
             if idx == 0:
                 res.append("Gold Medal")
             elif idx == 1:
