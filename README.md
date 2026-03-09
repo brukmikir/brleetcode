@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/brukmikir/brleetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/brukmikir/brleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/brukmikir/brleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/brukmikir/brleetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/brukmikir/brleetcode/tree/master/0056-merge-intervals) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/brukmikir/brleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brukmikir/brleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/brukmikir/brleetcode/tree/master/0283-move-zeroes) |
