@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/brukmikir/brleetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/brukmikir/brleetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/brukmikir/brleetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/brukmikir/brleetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brukmikir/brleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/brukmikir/brleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/brukmikir/brleetcode/tree/master/0054-spiral-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/brukmikir/brleetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/brukmikir/brleetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/brukmikir/brleetcode/tree/master/0088-merge-sorted-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/brukmikir/brleetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/brukmikir/brleetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brukmikir/brleetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/brukmikir/brleetcode/tree/master/0088-merge-sorted-array) |
