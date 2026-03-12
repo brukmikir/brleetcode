@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/brukmikir/brleetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/brukmikir/brleetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/brukmikir/brleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brukmikir/brleetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/brukmikir/brleetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/brukmikir/brleetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/brukmikir/brleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/brukmikir/brleetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/brukmikir/brleetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/brukmikir/brleetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/brukmikir/brleetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/brukmikir/brleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/brukmikir/brleetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/brukmikir/brleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
 | [1089-duplicate-zeros](https://github.com/brukmikir/brleetcode/tree/master/1089-duplicate-zeros) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/brukmikir/brleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/brukmikir/brleetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brukmikir/brleetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
