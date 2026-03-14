@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/brukmikir/brleetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/brukmikir/brleetcode/tree/master/1122-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/brukmikir/brleetcode/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/brukmikir/brleetcode/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/brukmikir/brleetcode/tree/master/1122-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brukmikir/brleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/brukmikir/brleetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/brukmikir/brleetcode/tree/master/0447-number-of-boomerangs) |
 | [0789-escape-the-ghosts](https://github.com/brukmikir/brleetcode/tree/master/0789-escape-the-ghosts) |
+| [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/brukmikir/brleetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/brukmikir/brleetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/brukmikir/brleetcode/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/brukmikir/brleetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
