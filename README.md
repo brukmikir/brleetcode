@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/brukmikir/brleetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/brukmikir/brleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/brukmikir/brleetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2679-sum-in-a-matrix](https://github.com/brukmikir/brleetcode/tree/master/2679-sum-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brukmikir/brleetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/brukmikir/brleetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/brukmikir/brleetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/brukmikir/brleetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/brukmikir/brleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/brukmikir/brleetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/brukmikir/brleetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/brukmikir/brleetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/brukmikir/brleetcode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/brukmikir/brleetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bucket Sort
 |  |
 | ------- |
