@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/brukmikir/brleetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/brukmikir/brleetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/brukmikir/brleetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/brukmikir/brleetcode/tree/master/0447-number-of-boomerangs) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
 | [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/brukmikir/brleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/brukmikir/brleetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/brukmikir/brleetcode/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
