@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/brukmikir/brleetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/brukmikir/brleetcode/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
+| [0978-longest-turbulent-subarray](https://github.com/brukmikir/brleetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/brukmikir/brleetcode/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/brukmikir/brleetcode/tree/master/1089-duplicate-zeros) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/brukmikir/brleetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/brukmikir/brleetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/brukmikir/brleetcode/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/brukmikir/brleetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/brukmikir/brleetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/brukmikir/brleetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0978-longest-turbulent-subarray](https://github.com/brukmikir/brleetcode/tree/master/0978-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
