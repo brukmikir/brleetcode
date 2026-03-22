@@ -1,7 +1,7 @@
 class Solution(object):
     def checkSubarraySum(self, nums, k):
         
-        remander={0:-1} #i will use there remainder as a key and index as a value here
+        remander={0:-1} 
         total=0
 
         for i,n in enumerate(nums):
