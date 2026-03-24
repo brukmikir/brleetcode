@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/brukmikir/brleetcode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/brukmikir/brleetcode/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/brukmikir/brleetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/brukmikir/brleetcode/tree/master/0904-fruit-into-baskets) |
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
 | [0978-longest-turbulent-subarray](https://github.com/brukmikir/brleetcode/tree/master/0978-longest-turbulent-subarray) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/brukmikir/brleetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/brukmikir/brleetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/brukmikir/brleetcode/tree/master/0506-relative-ranks) |
+| [0881-boats-to-save-people](https://github.com/brukmikir/brleetcode/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
 | [1122-relative-sort-array](https://github.com/brukmikir/brleetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/brukmikir/brleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/brukmikir/brleetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/brukmikir/brleetcode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/brukmikir/brleetcode/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/brukmikir/brleetcode/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/brukmikir/brleetcode/tree/master/1089-duplicate-zeros) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/brukmikir/brleetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/brukmikir/brleetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/brukmikir/brleetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/brukmikir/brleetcode/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/brukmikir/brleetcode/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/brukmikir/brleetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
