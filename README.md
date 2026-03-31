@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/brukmikir/brleetcode/tree/master/0203-remove-linked-list-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/brukmikir/brleetcode/tree/master/0053-maximum-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/brukmikir/brleetcode/tree/master/0978-longest-turbulent-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/brukmikir/brleetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
