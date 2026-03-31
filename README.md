@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0707-design-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -393,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/brukmikir/brleetcode/tree/master/0203-remove-linked-list-elements) |
+| [0707-design-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
