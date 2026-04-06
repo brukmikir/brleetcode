@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/brukmikir/brleetcode/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/brukmikir/brleetcode/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/brukmikir/brleetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brukmikir/brleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/brukmikir/brleetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/brukmikir/brleetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -431,10 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/brukmikir/brleetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brukmikir/brleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brukmikir/brleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
