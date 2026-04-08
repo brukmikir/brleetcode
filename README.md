@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brukmikir/brleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/brukmikir/brleetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/brukmikir/brleetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/brukmikir/brleetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/brukmikir/brleetcode/tree/master/0076-minimum-window-substring) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brukmikir/brleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/brukmikir/brleetcode/tree/master/2390-removing-stars-from-a-string) |
