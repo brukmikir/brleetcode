@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/brukmikir/brleetcode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/brukmikir/brleetcode/tree/master/0901-online-stock-span) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/brukmikir/brleetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Dynamic Programming
 |  |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/brukmikir/brleetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/brukmikir/brleetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/brukmikir/brleetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/brukmikir/brleetcode/tree/master/0901-online-stock-span) |
 | [1598-crawler-log-folder](https://github.com/brukmikir/brleetcode/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brukmikir/brleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/brukmikir/brleetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/brukmikir/brleetcode/tree/master/0901-online-stock-span) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/brukmikir/brleetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/brukmikir/brleetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/brukmikir/brleetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/brukmikir/brleetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/brukmikir/brleetcode/tree/master/0901-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
