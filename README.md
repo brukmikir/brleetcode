@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/brukmikir/brleetcode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/brukmikir/brleetcode/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/brukmikir/brleetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0641-design-circular-deque](https://github.com/brukmikir/brleetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/brukmikir/brleetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/brukmikir/brleetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/brukmikir/brleetcode/tree/master/0724-find-pivot-index) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/brukmikir/brleetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/brukmikir/brleetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/brukmikir/brleetcode/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/brukmikir/brleetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/brukmikir/brleetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/brukmikir/brleetcode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
+| [0641-design-circular-deque](https://github.com/brukmikir/brleetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/brukmikir/brleetcode/tree/master/0901-online-stock-span) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/brukmikir/brleetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0641-design-circular-deque](https://github.com/brukmikir/brleetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/brukmikir/brleetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0876-middle-of-the-linked-list) |
