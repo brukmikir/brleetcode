@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/brukmikir/brleetcode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Data Stream
 |  |
@@ -521,4 +522,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/brukmikir/brleetcode/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/brukmikir/brleetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/brukmikir/brleetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/brukmikir/brleetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/brukmikir/brleetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
