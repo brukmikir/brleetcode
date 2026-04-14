@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/brukmikir/brleetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/brukmikir/brleetcode/tree/master/0680-valid-palindrome-ii) |
 | [0804-unique-morse-code-words](https://github.com/brukmikir/brleetcode/tree/master/0804-unique-morse-code-words) |
+| [0856-score-of-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/brukmikir/brleetcode/tree/master/1002-find-common-characters) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/brukmikir/brleetcode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/brukmikir/brleetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/brukmikir/brleetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/brukmikir/brleetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/brukmikir/brleetcode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/brukmikir/brleetcode/tree/master/0901-online-stock-span) |
 | [1598-crawler-log-folder](https://github.com/brukmikir/brleetcode/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brukmikir/brleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
