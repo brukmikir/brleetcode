@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/brukmikir/brleetcode/tree/master/1922-count-good-numbers) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/brukmikir/brleetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2413-smallest-even-multiple](https://github.com/brukmikir/brleetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/brukmikir/brleetcode/tree/master/2469-convert-the-temperature) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/brukmikir/brleetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/brukmikir/brleetcode/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/brukmikir/brleetcode/tree/master/1922-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
