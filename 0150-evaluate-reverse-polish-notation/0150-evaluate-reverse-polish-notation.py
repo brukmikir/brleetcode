@@ -14,7 +14,6 @@ class Solution:
                 elif t == "*":
                     stack.append(a * b)
                 else:
-                    # truncate toward zero
                     stack.append(int(a / b))
             else:
                 stack.append(int(t))
