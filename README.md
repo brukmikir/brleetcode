@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/brukmikir/brleetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/brukmikir/brleetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/brukmikir/brleetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/brukmikir/brleetcode/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/brukmikir/brleetcode/tree/master/0523-continuous-subarray-sum) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/brukmikir/brleetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/brukmikir/brleetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/brukmikir/brleetcode/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/brukmikir/brleetcode/tree/master/1922-count-good-numbers) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/brukmikir/brleetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/brukmikir/brleetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
