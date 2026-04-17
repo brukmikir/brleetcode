@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/brukmikir/brleetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/brukmikir/brleetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/brukmikir/brleetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/brukmikir/brleetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/brukmikir/brleetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/brukmikir/brleetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/brukmikir/brleetcode/tree/master/0118-pascals-triangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/brukmikir/brleetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/brukmikir/brleetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/brukmikir/brleetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/brukmikir/brleetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/brukmikir/brleetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/brukmikir/brleetcode/tree/master/0344-reverse-string) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/brukmikir/brleetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/brukmikir/brleetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/brukmikir/brleetcode/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/brukmikir/brleetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/brukmikir/brleetcode/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/brukmikir/brleetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/brukmikir/brleetcode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Data Stream
@@ -554,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/brukmikir/brleetcode/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/brukmikir/brleetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
