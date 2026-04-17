@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/brukmikir/brleetcode/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/brukmikir/brleetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/brukmikir/brleetcode/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/brukmikir/brleetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0789-escape-the-ghosts](https://github.com/brukmikir/brleetcode/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/brukmikir/brleetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/brukmikir/brleetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/brukmikir/brleetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/brukmikir/brleetcode/tree/master/0394-decode-string) |
+| [0779-k-th-symbol-in-grammar](https://github.com/brukmikir/brleetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/brukmikir/brleetcode/tree/master/1922-count-good-numbers) |
 ## Queue
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/brukmikir/brleetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/brukmikir/brleetcode/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/brukmikir/brleetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
