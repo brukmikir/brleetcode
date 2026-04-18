@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/brukmikir/brleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/brukmikir/brleetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/brukmikir/brleetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/brukmikir/brleetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0020-valid-parentheses) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/brukmikir/brleetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/brukmikir/brleetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/brukmikir/brleetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/brukmikir/brleetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/brukmikir/brleetcode/tree/master/0050-powx-n) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/brukmikir/brleetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/brukmikir/brleetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/brukmikir/brleetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/brukmikir/brleetcode/tree/master/0119-pascals-triangle-ii) |
