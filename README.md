@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/brukmikir/brleetcode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/brukmikir/brleetcode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/brukmikir/brleetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/brukmikir/brleetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/brukmikir/brleetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/brukmikir/brleetcode/tree/master/0500-keyboard-row) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/brukmikir/brleetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/brukmikir/brleetcode/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/brukmikir/brleetcode/tree/master/0447-number-of-boomerangs) |
+| [0486-predict-the-winner](https://github.com/brukmikir/brleetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/brukmikir/brleetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/brukmikir/brleetcode/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/brukmikir/brleetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/brukmikir/brleetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/brukmikir/brleetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/brukmikir/brleetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/brukmikir/brleetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/brukmikir/brleetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/brukmikir/brleetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/brukmikir/brleetcode/tree/master/1922-count-good-numbers) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/brukmikir/brleetcode/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/brukmikir/brleetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Sliding Window
 |  |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/brukmikir/brleetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/brukmikir/brleetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/brukmikir/brleetcode/tree/master/0119-pascals-triangle-ii) |
+| [0486-predict-the-winner](https://github.com/brukmikir/brleetcode/tree/master/0486-predict-the-winner) |
 | [0978-longest-turbulent-subarray](https://github.com/brukmikir/brleetcode/tree/master/0978-longest-turbulent-subarray) |
 ## Linked List
 |  |
