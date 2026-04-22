@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/brukmikir/brleetcode/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/brukmikir/brleetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/brukmikir/brleetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/brukmikir/brleetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/brukmikir/brleetcode/tree/master/0904-fruit-into-baskets) |
 | [0962-maximum-width-ramp](https://github.com/brukmikir/brleetcode/tree/master/0962-maximum-width-ramp) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/brukmikir/brleetcode/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/brukmikir/brleetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/brukmikir/brleetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/brukmikir/brleetcode/tree/master/0875-koko-eating-bananas) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/brukmikir/brleetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/brukmikir/brleetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/brukmikir/brleetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
