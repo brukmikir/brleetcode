@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/brukmikir/brleetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/brukmikir/brleetcode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/brukmikir/brleetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/brukmikir/brleetcode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/brukmikir/brleetcode/tree/master/0455-assign-cookies) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/brukmikir/brleetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/brukmikir/brleetcode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/brukmikir/brleetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/brukmikir/brleetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/brukmikir/brleetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/brukmikir/brleetcode/tree/master/0455-assign-cookies) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brukmikir/brleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/brukmikir/brleetcode/tree/master/0278-first-bad-version) |
+| [0436-find-right-interval](https://github.com/brukmikir/brleetcode/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/brukmikir/brleetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/brukmikir/brleetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/brukmikir/brleetcode/tree/master/0875-koko-eating-bananas) |
