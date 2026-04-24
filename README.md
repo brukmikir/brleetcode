@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/brukmikir/brleetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/brukmikir/brleetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/brukmikir/brleetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/brukmikir/brleetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brukmikir/brleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/brukmikir/brleetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/brukmikir/brleetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brukmikir/brleetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/brukmikir/brleetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/brukmikir/brleetcode/tree/master/0278-first-bad-version) |
