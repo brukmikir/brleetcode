@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/brukmikir/brleetcode/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/brukmikir/brleetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/brukmikir/brleetcode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/brukmikir/brleetcode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/brukmikir/brleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/brukmikir/brleetcode/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/brukmikir/brleetcode/tree/master/0789-escape-the-ghosts) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/brukmikir/brleetcode/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/brukmikir/brleetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/brukmikir/brleetcode/tree/master/0704-binary-search) |
+| [0729-my-calendar-i](https://github.com/brukmikir/brleetcode/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/brukmikir/brleetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/brukmikir/brleetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/brukmikir/brleetcode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/brukmikir/brleetcode/tree/master/0303-range-sum-query-immutable) |
 | [0641-design-circular-deque](https://github.com/brukmikir/brleetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/brukmikir/brleetcode/tree/master/0707-design-linked-list) |
+| [0729-my-calendar-i](https://github.com/brukmikir/brleetcode/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/brukmikir/brleetcode/tree/master/0901-online-stock-span) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/brukmikir/brleetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Dynamic Programming
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/brukmikir/brleetcode/tree/master/0729-my-calendar-i) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/brukmikir/brleetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -609,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/brukmikir/brleetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
