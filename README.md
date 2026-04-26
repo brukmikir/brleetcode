@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/brukmikir/brleetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/brukmikir/brleetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/brukmikir/brleetcode/tree/master/2730-find-the-longest-semi-repetitive-substring) |
+| [3174-clear-digits](https://github.com/brukmikir/brleetcode/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/brukmikir/brleetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/brukmikir/brleetcode/tree/master/2679-sum-in-a-matrix) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/brukmikir/brleetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3174-clear-digits](https://github.com/brukmikir/brleetcode/tree/master/3174-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/brukmikir/brleetcode/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/brukmikir/brleetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/brukmikir/brleetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/brukmikir/brleetcode/tree/master/3174-clear-digits) |
 ## Doubly-Linked List
 |  |
 | ------- |
