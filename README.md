@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/brukmikir/brleetcode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/brukmikir/brleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/brukmikir/brleetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/brukmikir/brleetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0789-escape-the-ghosts](https://github.com/brukmikir/brleetcode/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/brukmikir/brleetcode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/brukmikir/brleetcode/tree/master/0832-flipping-an-image) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/brukmikir/brleetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/brukmikir/brleetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/brukmikir/brleetcode/tree/master/0729-my-calendar-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/brukmikir/brleetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/brukmikir/brleetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/brukmikir/brleetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/brukmikir/brleetcode/tree/master/1552-magnetic-force-between-two-balls) |
