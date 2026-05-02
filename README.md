@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/brukmikir/brleetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/brukmikir/brleetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/brukmikir/brleetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/brukmikir/brleetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brukmikir/brleetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/brukmikir/brleetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/brukmikir/brleetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/brukmikir/brleetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/brukmikir/brleetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/brukmikir/brleetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/brukmikir/brleetcode/tree/master/0119-pascals-triangle-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/brukmikir/brleetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/brukmikir/brleetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Segment Tree
 |  |
